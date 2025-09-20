@@ -1,9 +1,8 @@
-const landing: React.FC = () => {
-    return(
+const Landing: React.FC =  () => {
+  return (
     <div>
-        <h1 className="text-xl font-extralight">Landing page</h1>
+      <h1 className=" text-xl font-extralight">Landing Page</h1>
     </div>
-    )
+  )
 }
-
-export default landing;
+export default Landing
